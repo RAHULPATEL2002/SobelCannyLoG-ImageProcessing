@@ -45,18 +45,12 @@ This MATLAB script performs the following tasks:
 ---
 
 ## Example Results
+![Screenshot 2025-01-25 221543](https://github.com/user-attachments/assets/3d660450-2343-414f-a5fe-27943e278d2c)
 
-### Grayscale Image
-![Grayscale Image](https://github.com/user-attachments/assets/7d3425b5-b3b2-4920-a98f-04927bdd381e)
 
-### Sobel Edge Detection
-![Sobel Edge Detection](https://github.com/user-attachments/assets/21d49a8b-d514-4812-b9f9-cde8259cb24f)
 
-### Canny Edge Detection
-![Canny Edge Detection](https://github.com/user-attachments/assets/3c27b738-2489-4a3b-8197-9f0e609ef162)
+![Screenshot 2025-01-25 221559](https://github.com/user-attachments/assets/7333b165-84fa-492e-95e4-012ed3db6c69)
 
-### Laplacian of Gaussian (LoG) Edge Detection
-![LoG Edge Detection](https://github.com/user-attachments/assets/a5a04f62-6b31-4c34-81d6-2a54f2933944)
 
 ---
 
